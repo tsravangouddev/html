@@ -1,2 +1,2 @@
-# html
-Html Codes
+# web
+Web Codes
